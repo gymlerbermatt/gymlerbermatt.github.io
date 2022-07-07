@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.49ff55ce.js";const C=JSON.parse('{"title":"Willkommen zur Robotik-Seite der Lerbere","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},p=l("",4),e=[p];function t(r,c,i,y,D,F){return a(),n("div",null,e)}var m=s(o,[["render",t]]);export{C as __pageData,m as default};
