@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as s}from"./app.fe5d5a8c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sensoren/entfernungs_sensor.md","lastUpdated":1657196223000}'),t={name:"sensoren/entfernungs_sensor.md"};function r(a,o,c,_,p,d){return s(),n("div")}var m=e(t,[["render",r]]);export{i as __pageData,m as default};
