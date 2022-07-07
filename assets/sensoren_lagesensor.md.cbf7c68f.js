@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a}from"./app.fe5d5a8c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sensoren/lagesensor.md","lastUpdated":1657196223000}'),t={name:"sensoren/lagesensor.md"};function r(n,o,c,p,d,_){return a(),s("div")}var m=e(t,[["render",r]]);export{i as __pageData,m as default};

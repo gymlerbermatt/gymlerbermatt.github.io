@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as s}from"./app.fe5d5a8c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sensoren/farbsensor.md","lastUpdated":1657196223000}'),a={name:"sensoren/farbsensor.md"};function t(n,o,c,p,d,_){return s(),r("div")}var m=e(a,[["render",t]]);export{i as __pageData,m as default};

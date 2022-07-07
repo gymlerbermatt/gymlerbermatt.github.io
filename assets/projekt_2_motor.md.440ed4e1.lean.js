@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app.fe5d5a8c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projekt_2_motor.md","lastUpdated":1657196223000}'),r={name:"projekt_2_motor.md"};function a(_,s,p,c,n,d){return o(),e("div")}var f=t(r,[["render",a]]);export{i as __pageData,f as default};
