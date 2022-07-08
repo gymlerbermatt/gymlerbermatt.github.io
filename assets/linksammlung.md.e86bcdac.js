@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./app.b3ca0ca7.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linksammlung.md","lastUpdated":1657197421000}'),n={name:"linksammlung.md"};function r(s,o,c,m,l,i){return t(),a("div")}var _=e(n,[["render",r]]);export{d as __pageData,_ as default};

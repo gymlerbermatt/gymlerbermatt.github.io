@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.b3ca0ca7.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sensoren/tasten.md","lastUpdated":1657196223000}'),s={name:"sensoren/tasten.md"};function n(r,o,c,p,d,_){return a(),t("div")}var f=e(s,[["render",n]]);export{m as __pageData,f as default};

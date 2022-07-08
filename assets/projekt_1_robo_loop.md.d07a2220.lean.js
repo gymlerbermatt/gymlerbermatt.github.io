@@ -1,1 +1,0 @@
-import{_ as o,c as e,o as t}from"./app.b3ca0ca7.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projekt_1_robo_loop.md","lastUpdated":1657196223000}'),r={name:"projekt_1_robo_loop.md"};function a(_,p,s,c,n,d){return t(),e("div")}var m=o(r,[["render",a]]);export{i as __pageData,m as default};
