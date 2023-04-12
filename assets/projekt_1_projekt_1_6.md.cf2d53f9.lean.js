@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as n,N as a}from"./chunks/framework.0799945b.js";const h=JSON.parse('{"title":"Der 🤖-Loop","description":"","frontmatter":{},"headers":[],"relativePath":"projekt_1/projekt_1_6.md"}'),o={name:"projekt_1/projekt_1_6.md"},l=a("",5),r=[l];function t(p,c,i,d,D,F){return n(),s("div",null,r)}const u=e(o,[["render",t]]);export{h as __pageData,u as default};

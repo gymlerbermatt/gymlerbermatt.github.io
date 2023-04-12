@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as n,N as a}from"./chunks/framework.0799945b.js";const h=JSON.parse('{"title":"Beep","description":"","frontmatter":{},"headers":[],"relativePath":"aktoren/beep.md"}'),o={name:"aktoren/beep.md"},l=a("",10),p=[l];function t(r,c,i,F,D,y){return n(),e("div",null,p)}const u=s(o,[["render",t]]);export{h as __pageData,u as default};

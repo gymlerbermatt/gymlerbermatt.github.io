@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as a,N as t}from"./chunks/framework.0799945b.js";const p=JSON.parse('{"title":"Linksammlung","description":"","frontmatter":{},"headers":[],"relativePath":"linksammlung.md"}'),o={name:"linksammlung.md"},i=t("",6),r=[i];function s(l,c,m,u,d,h){return a(),n("div",null,r)}const k=e(o,[["render",s]]);export{p as __pageData,k as default};

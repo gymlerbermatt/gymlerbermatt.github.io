@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as o}from"./chunks/framework.0799945b.js";const C=JSON.parse('{"title":"Motoren ansteuern","description":"","frontmatter":{},"headers":[],"relativePath":"projekt_2/projekt_2_3.md"}'),l={name:"projekt_2/projekt_2_3.md"},p=o("",6),e=[p];function t(r,c,D,y,i,F){return a(),n("div",null,e)}const d=s(l,[["render",t]]);export{C as __pageData,d as default};
